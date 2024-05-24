@@ -1,0 +1,9 @@
+# Site settings
+title: PortfolioTesting
+author:
+  name: Zach Blumenfeld
+  email: zblumenf@gmail.com.com
+description: "A sampling of technical projects"
+
+# Build settings
+remote_theme: jekyll/minima
