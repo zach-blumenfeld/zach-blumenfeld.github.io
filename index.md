@@ -1,7 +1,7 @@
 ---
 layout: home 
 ---
-
+# 
 ## Recent GenAI/RAG Demos & Examples
 - Demo application for GraphRAG patterns:
     - [code](https://github.com/neo4j-product-examples/graphrag-examples),
@@ -21,5 +21,5 @@ layout: home
     - [Code](https://github.com/neo4j-product-examples/ds-recommendation-use-cases/tree/main/news-recommendation-mind/mind-large-collab-filtering)
 
 ## Other Examples
-https://github.com/neo4j-product-examples includes additional demos & coded examples from my work at Neo4j
+[github.com/neo4j-product-examples](https://github.com/neo4j-product-examples) includes additional demos & coded examples from my work at Neo4j
 
