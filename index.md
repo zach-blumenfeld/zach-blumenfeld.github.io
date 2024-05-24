@@ -1,7 +1,6 @@
 ---
 layout: home 
 ---
-# 
 ## Recent GenAI/RAG Demos & Examples
 - Demo application for GraphRAG patterns:
     - [code](https://github.com/neo4j-product-examples/graphrag-examples),

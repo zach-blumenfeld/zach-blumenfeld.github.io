@@ -6,4 +6,4 @@ author:
 description: "A sampling of demos and coded examples for AI, ML & Data Science"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-cayman
