@@ -10,7 +10,7 @@ Off the clock, you'll find me tinkering with new projects, staying updated on th
 
 ## Technical Project Highlights
 
-### Recent GenAI/RAG Demos & Examples
+### GenAI/RAG Demos & Examples
 - Demo application for GraphRAG patterns: [code](https://github.com/neo4j-product-examples/graphrag-examples) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
 - Short videos:
   - [Build a dynamic search application with ai-agents and Neo4j](https://www.youtube.com/watch?v=wKJRvK6u5f8)
