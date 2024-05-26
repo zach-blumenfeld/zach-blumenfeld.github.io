@@ -1,7 +1,7 @@
 ---
 layout: home 
 ---
-# Hi, I'm Zach 👋
+# About Me
 I'm passionate about AI, machine learning, and data science. I thrive on learning and sharing new technologies, always seeking innovative ways to make an impact with them.
 
 Right now, I'm at Neo4j, where I get to work on cool stuff with Generative AI and graph databases. Whether it's developing coded examples, creating demo apps, writing blogs, supporting sales & solutions, or delivering technical presentations, I love sharing knowledge and helping others leverage these tools.
